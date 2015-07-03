@@ -16,3 +16,4 @@ Project contains a GIF walkthrough of the app's functionality ✓<br><br>
 Add edit functionality to todo app ✓<br>
 Submit todo app for review via Github ✓<br>
 Extend your todo app, improve UI, add features
+<img src="TodoApp-Functionality0.gif">
