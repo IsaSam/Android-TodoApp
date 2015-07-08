@@ -1,6 +1,6 @@
 # Android-TodoApp
-<table>
-<tr colspan="2"><td>First version completed<br>
+
+First version completed<br>
 ---------------------------------------------------------------<br>
 Android Bootcamp Project 0: Todo application <br>
 ---------------------------------------------------------------<br>
@@ -15,8 +15,9 @@ Project contains a GIF walkthrough of the app's functionality ✓<br><br>
 
 Add edit functionality to todo app ✓<br>
 Submit todo app for review via Github ✓<br>
-Extend your todo app, improve UI, add features</td><td><img src="TodoApp-Functionality0.gif"></td></tr>
-</table>
+Extend your todo app, improve UI, add features<br>
+<img src="TodoApp-Functionality0.gif">
+
 
 
 
